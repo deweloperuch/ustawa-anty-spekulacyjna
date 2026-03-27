@@ -28,7 +28,9 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    „**Art. 5a.**
 
    1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
-      1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
+      1. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego pierwszy lub drugi budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
+         1. 0,1% wartości dla pierwszego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego nabytego przez podatnika;
+         2. 0,2% wartości dla drugiego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego nabytego przez podatnika;
       2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
          1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
          2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
