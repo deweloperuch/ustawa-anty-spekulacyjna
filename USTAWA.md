@@ -23,7 +23,7 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    1. uchyla się lit. a,
    2. lit. b otrzymuje brzmienie:
       „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
-5. po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
+5. po art. 5 dodaje się art. 5a, art. 5b i art 5c w brzmieniu:
 
    „**Art. 5a.**
 
@@ -44,13 +44,15 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
       5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
 
-   **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
+   **Art. 5b.** 
+   1. Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
-   1. rok budowy;
-   2. lokalizację;
-   3. powierzchnię działki;
-   4. powierzchnię budynku;
-   5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.";
+       1. rok budowy;
+       2. lokalizację;
+       3. powierzchnię działki;
+       4. powierzchnię budynku;
+       5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.
+   2. Współczynnik korygujący, o którym mowa w ust. 1, ustalony dla przedmiotu opodatkowania podlegającego stawce, o której mowa w art. 5a ust. 1 pkt 2, nie może być niższy niż 1,0.";
 
 6. na art. 6 w ust. 13 po wyrazach „podatku od nieruchomości" dodaje się wyrazy „, w tym ustalenia liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących przedmiotem opodatkowania i daty ich nabycia";
 7. na art. 7a w ust. 3 w zdaniu drugim po wyrazach „przedmiotu opodatkowania" dodaje się wyrazy „, w tym datę nabycia budynku mieszkalnego jednorodzinnego albo lokalu mieszkalnego".
