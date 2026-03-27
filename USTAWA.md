@@ -29,9 +29,14 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 
    1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
       1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
-      2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
-         1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
-         2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
+      2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika, stawka bazowa wynosi:
+         1. 0,5% wartości w pierwszym roku podatkowym od dnia wejścia w życie niniejszej ustawy,
+         2. 1,0% wartości w drugim roku podatkowym od dnia wejścia w życie niniejszej ustawy,
+         3. 1,5% wartości w trzecim i każdym kolejnym roku podatkowym od dnia wejścia w życie niniejszej ustawy.
+      3. Stawkę bazową, o której mowa w pkt 2, podwyższa się w zależności od łącznej liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących własnością podatnika, o:
+         1. 0,25 punktu procentowego wartości -- dla czwartego budynku lub lokalu,
+         2. 0,5 punktu procentowego wartości -- dla piątego budynku lub lokalu,
+         3. 1,0 punktu procentowego wartości -- dla szóstego i każdego kolejnego budynku lub lokalu.
    2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik.
    3. Stawkę, o której mowa w art. 5a ust. 1 pkt 2 oblicza się od trzeciego i kolejnego przedmiotu opodatkowania liczonego zgodnie z kolejnością ustaloną według dnia nabycia.
    4. W przypadku gdy podatnik, będący właścicielem co najmniej jednego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, nabywa w tym samym dniu więcej niż jeden taki budynek lub lokal, dla ustalenia stawki podatku określonej w ust. 1 pkt 1 za pierwszy przyjmuje się budynek mieszkalny jednorodzinny lub lokal mieszkalny o najniższej wartości.
