@@ -40,9 +40,6 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    7. Niezależnie od liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych stanowiących przedmiot opodatkowania danego podatnika, stawce podatku, o której mowa w ust. 1 pkt 1, podlegają:
       1. budynki mieszkalne jednorodzinne i lokale mieszkalne będące własnością państwowej osoby prawnej, spółdzielni mieszkaniowej, towarzystwa budownictwa społecznego, społecznej inicjatywy mieszkaniowej lub społecznej agencji najmu;
       2. budynki mieszkalne jednorodzinne i lokale mieszkalne dzierżawione przez społeczną agencję najmu lub będące mieszkaniami treningowymi lub wspomaganymi;
-      3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
-      4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
-      5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
 
    **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
