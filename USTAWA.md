@@ -43,6 +43,9 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
       4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
       5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
+   8. Stawkę podatku ustaloną zgodnie z ust. 1 powiększa się o:
+      1. 0,5 punktu procentowego wartości -- w przypadku gdy podatnikiem jest osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, z wyłączeniem podmiotów, o których mowa w ust. 7 pkt 1 i 2;
+      2. 1,0 punkt procentowy wartości -- w przypadku gdy podatnikiem jest osoba fizyczna niemająca miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, osoba prawna niemająca siedziby na terytorium Rzeczypospolitej Polskiej, lub podmiot kontrolowany bezpośrednio lub pośrednio przez takie osoby.
 
    **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
