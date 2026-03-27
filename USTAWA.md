@@ -43,6 +43,11 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
       4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
       5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
+   8. Stawkę podatku ustaloną zgodnie z ust. 1 pkt 2 obniża się o 50% w odniesieniu do budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, który jest przedmiotem umowy najmu zawartej na czas nieokreślony lub na czas oznaczony nie krótszy niż 12 miesięcy, pod warunkiem że:
+      1. umowa najmu została zgłoszona do właściwego urzędu skarbowego;
+      2. podatnik wykazuje przychód z najmu w zeznaniu podatkowym;
+      3. czynsz najmu nie przekracza 120% wartości czynszu referencyjnego określonego przez radę gminy lub, w przypadku braku takiego określenia, nie przekracza 5% wartości przedmiotu opodatkowania w skali roku.
+   9. Obniżenia, o którym mowa w ust. 8, nie stosuje się, jeżeli najemcą jest osoba będąca małżonkiem podatnika, osobą pozostającą z podatnikiem we wspólnym gospodarstwie domowym, lub podmiot powiązany z podatnikiem w rozumieniu art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278).
 
    **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
