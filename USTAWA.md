@@ -7,10 +7,9 @@
 W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707) wprowadza się następujące zmiany:
 
 1. w art. 1a:
-   1. po pkt 1 dodaje się pkt 1a i 1b i 1c w brzmieniu:
+   1. po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
       „1a) budynek mieszkalny jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
-      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);
-      1c) pustostan – budynek mieszkalny jednorodzinny lub lokal mieszkalny, w którym łączne zużycie energii elektrycznej i wody w okresie 6 następujących po sobie miesięcy danego roku podatkowego wyniosło mniej niż 10% średniego zużycia referencyjnego dla danego typu lokalu, określanego w drodze rozporządzenia przez ministra właściwego do spraw klimatu;",	
+      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);",
    2. na pkt 2b skreśla się wyrazy „(Dz. U. z 2025 r. poz. 418)";
 2. na art. 3 w ust. 4 po wyrazach „ust. 4a–6" dodaje się wyrazy „i art. 5a ust. 6";
 3. na art. 4 w ust. 1:
@@ -24,7 +23,7 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    1. uchyla się lit. a,
    2. lit. b otrzymuje brzmienie:
       „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
-5. po art. 5 dodaje się art. 5a, art. 5b i art. 5c w brzmieniu:
+5. po art. 5 dodaje się art. 5a, art. 5b i art 5c w brzmieniu:
 
    „**Art. 5a.**
 
@@ -33,7 +32,7 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
          1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
          2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
-   2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik, a także te należące do spółek, funduszy lub innych podmiotów prawnych, w których podatnik jest beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+   2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik.
    3. Stawkę, o której mowa w art. 5a ust. 1 pkt 2 oblicza się od trzeciego i kolejnego przedmiotu opodatkowania liczonego zgodnie z kolejnością ustaloną według dnia nabycia.
    4. W przypadku gdy podatnik, będący właścicielem co najmniej jednego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, nabywa w tym samym dniu więcej niż jeden taki budynek lub lokal, dla ustalenia stawki podatku określonej w ust. 1 pkt 1 za pierwszy przyjmuje się budynek mieszkalny jednorodzinny lub lokal mieszkalny o najniższej wartości.
    5. W przypadku gdy budynek mieszkalny jednorodzinny lub lokal mieszkalny stanowi współwłasność, wysokość podatku ustala się odpowiednio do liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych, będących przedmiotem opodatkowania każdego współwłaściciela.
@@ -45,62 +44,45 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
       5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
 
-   **Art. 5b.**
+   **Art. 5b.** 
    1. Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
-      1. rok budowy;
-      2. lokalizację;
-      3. powierzchnię działki;
-      4. powierzchnię budynku;
-      5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.;
-   2. Współczynnik korygujący, o którym mowa w ust. 1, ustalony dla przedmiotu opodatkowania podlegającego stawce, o której mowa w art. 5a ust. 1 pkt 2, nie może być niższy niż 1,0.
-   **Art. 5c.**
-   1. Rada gminy, w drodze uchwały, określa wysokość stawek podatku od nieruchomości dla pustostanów będących trzecim i kolejnym lokalem mieszkalnym lub budynkiem mieszkalnym jednorodzinnym w posiadaniu podatnika.
-   2. Stawka roczna, o której mowa w ust. 1, nie może być niższa niż 3% wartości odtworzeniowej lokalu lub budynku, określanej na podstawie wskaźników przeliczeniowych kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, ogłaszanych przez wojewodów.
-   3. Przez liczbę lokali lub budynków będących w posiadaniu podatnika na potrzeby niniejszego artykułu stosuje się zasady agregacji określone w art. 5a ust. 2.
-   4. Ustala się obowiązek corocznego raportowania zużycia mediów (energii elektrycznej i wody) do organu podatkowego właściwego ze względu na miejsce położenia nieruchomości, w celu weryfikacji statusu pustostanu. Organ podatkowy uprawniony jest do weryfikacji oświadczeń u dostawców mediów."
+
+       1. rok budowy;
+       2. lokalizację;
+       3. powierzchnię działki;
+       4. powierzchnię budynku;
+       5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.
+   2. Współczynnik korygujący, o którym mowa w ust. 1, ustalony dla przedmiotu opodatkowania podlegającego stawce, o której mowa w art. 5a ust. 1 pkt 2, nie może być niższy niż 1,0.";
+
 6. na art. 6 w ust. 13 po wyrazach „podatku od nieruchomości" dodaje się wyrazy „, w tym ustalenia liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących przedmiotem opodatkowania i daty ich nabycia";
 7. na art. 7a w ust. 3 w zdaniu drugim po wyrazach „przedmiotu opodatkowania" dodaje się wyrazy „, w tym datę nabycia budynku mieszkalnego jednorodzinnego albo lokalu mieszkalnego".
 
-### Art. 2. [zmiana ustawy o podatku od czynności cywilnoprawnych]
-
-W ustawie z dnia 9 września 2000 r. O podatku od czynności cywilnoprawnych (Dz. U. z 2025 r. poz. 295) wprowadza się następujące zmiany:
-
-na art. 7 po ust. 1 dodaje się ust. 1a w brzmieniu:
-"1a. W przypadku umowy zbycia trzeciego lub kolejnego lokalu mieszkalnego (w tym prawa odrębnej własności lokalu) lub budynku mieszkalnego jednorodzinnego, należącego do podatnika (z uwzględnieniem zasady agregacji przez beneficjenta rzeczywistego z art. 5a ust. 2 ustawy o podatkach i opłatach lokalnych), stawka podatku wynosi:
-1.	16% podstawy opodatkowania - jeżeli zbycie następuje przed upływem 1 roku od daty jego nabycia przez zbywcę;
-2.	12% podstawy opodatkowania - jeżeli zbycie następuje po upływie 1 roku, ale przed upływem 2 lat od daty jego nabycia;
-3.	8% podstawy opodatkowania - jeżeli zbycie następuje po upływie 2 lat, ale przed upływem 3 lat od daty jego nabycia."
-
-na art. 7 po ust. 1a dodaje się ust. 1b w brzmieniu:
-"1b. Podstawę opodatkowania, o której mowa w ust. 1a, stanowi wartość rynkowa zbywanej nieruchomości lub cena transakcyjna określona w umowie, w zależności od tego, która z tych kwot jest wyższa.";
 ### Art. 2. [zmiana ustawy o księgach wieczystych i hipotece]
 
-W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793) w art. 36⁴ po ust. 16 dodaje się ust. 16a i 16b w brzmieniu:
+W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793) w art. 36⁴ po ust. 16 dodaje się ust. 16a w brzmieniu:
 
-„16a. Centralna Informacja umożliwia organom podatkowym właściwym dla ustalania podatku od nieruchomości, w celu ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych albo lokali mieszkalnych, bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym, drugim i trzecim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.
-16b. Udostępnianie danych, o których mowa w ust. 16a, następuje z wykorzystaniem zintegrowanego interfejsu programistycznego (API), który obligatoryjnie i w czasie rzeczywistym krzyżuje dane o własności z Centralnym Rejestrem Beneficjentów Rzeczywistych. Rozwiązanie to ma na celu zautomatyzowaną agregację posiadanych nieruchomości na poziomie beneficjenta rzeczywistego, zgodnie z art. 5a ust. 2 ustawy o podatkach i opłatach lokalnych."
+„16a. Centralna Informacja umożliwia organom podatkowym właściwym dla ustalania podatku od nieruchomości, w celu ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych albo lokali mieszkalnych, bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym, drugim i trzecim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.".
 
-### Art. 4. [zmiana Prawa geodezyjnego i kartograficznego]
+### Art. 3. [zmiana Prawa geodezyjnego i kartograficznego]
 
 W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792) w art. 24b:
 
 1. po ust. 2 dodaje się ust. 2a w brzmieniu:
    „2a. Zintegrowany system informacji o nieruchomościach udostępniany jest gminom w celu uzyskania informacji niezbędnych do ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych.";
 2. ust. 4 otrzymuje brzmienie:
-"4. Rada Ministrów określi, w drodze rozporządzenia, sposób, tryb i standardy techniczne tworzenia i prowadzenia zintegrowanego systemu informacji o nieruchomościach, treść, formę i sposób przekazywania zawiadomień, o których mowa w ust. 1 pkt 3, oraz zakres i sposób udostępniania informacji, o których mowa w ust. 2a, mając na uwadze usprawnienie funkcjonowania systemu informacyjnego państwa dotyczącego nieruchomości, przez tworzenie rozwiązań umożliwiających zapewnienie spójności i aktualności danych dotyczących nieruchomości, zawartych w różnych rejestrach publicznych, automatyzację procesów ich aktualizacji, a także jak najszersze wykorzystanie informacji zgromadzonych w tych rejestrach do celów publicznych, oraz uwzględniając stan informatyzacji tych rejestrów i potrzebę sprawnego ustalania stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych."
-### Art. 5. [zmiana ustawy o ochronie praw nabywcy lokalu mieszkalnego]
+   „4. Rada Ministrów określi, w drodze rozporządzenia, sposób, tryb i standardy techniczne tworzenia i prowadzenia zintegrowanego systemu informacji o nieruchomościach, treść, formę i sposób przekazywania zawiadomień, o których mowa w ust. 1 pkt 3, oraz zakres i sposób udostępniania informacji, o których mowa w ust. 2a, mając na uwadze usprawnienie funkcjonowania systemu informacyjnego państwa dotyczącego nieruchomości, przez tworzenie rozwiązań umożliwiających zapewnienie spójności i aktualności danych dotyczących nieruchomości, zawartych w różnych rejestrach publicznych, automatyzację procesów ich aktualizacji, a także jak najszersze wykorzystanie informacji zgromadzonych w tych rejestrach do celów publicznych, oraz uwzględniając stan informatyzacji tych rejestrów i potrzebę sprawnego ustalania stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych.".
 
-W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 w pkt 6 w dodawanym art. 56f ust. 1 otrzymuje brzmienie:
+### Art. 4. [zmiana ustawy o ochronie praw nabywcy lokalu mieszkalnego]
 
-"1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia w Portalu DOM, w tym na mapie, następujące informacje statystyczne:
+W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 na pkt 6 w dodawanym art. 56f ust. 1 otrzymuje brzmienie:
 
-o średnich cenach transakcyjnych lokali mieszkalnych albo domów jednorodzinnych lub średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych, lub medianach tych cen transakcyjnych,
+„1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia w Portalu DOM, w tym na mapie, następujące informacje statystyczne:
 
-o liczbie transakcji, z których pochodzą ceny transakcyjne uwzględnione przy generowaniu informacji, o których mowa w pkt 1,
+1. o średnich cenach transakcyjnych lokali mieszkalnych albo domów jednorodzinnych lub średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych, lub medianach tych cen transakcyjnych,
+2. o liczbie transakcji, z których pochodzą ceny transakcyjne uwzględnione przy generowaniu informacji, o których mowa w pkt 1,
+3. średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych dla obszaru danej gminy, na dzień 30 września każdego roku
 
-średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych dla obszaru danej gminy, na dzień 30 września każdego roku
-
-z możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia do wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia."
+– z możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia do wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia.";
 
 ## *Przepisy przejściowe i końcowe*
 
@@ -122,8 +104,8 @@ Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były po
       3. za marzec – w terminie do dnia 15 marca 2027 r.
       – w wysokości odpowiadającej średniej miesięcznej kwocie należnego podatku za 2026 r.
 3. W przypadku gdy uiszczone raty, o których mowa w ust. 2, są:
-   1. niższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2027 za miesiące, za które zostały uiszczone, brakująca kwota podatku pozostała do zapłaty podlega, bez wezwania organu podatkowego, wpłacie na rachunek właściwej gminy w terminie do dnia 31 marca 2027 r., przy czym kwota wpłacona w tym terminie nie stanowi zaległości podatkowej w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863);
-   2. wyższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2026 za miesiące, za które zostały uiszczone, kwota powstałej różnicy nie stanowi nadpłaty w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, a do jej zaliczenia lub zwrotu przepis art. 76 tej ustawy stosuje się odpowiednio.
+   1. niższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2027 za miesiące, za które zostały uiszczone, brakująca kwota podatku pozostała do zapłaty podlega, bez wezwania organu podatkowego, wpłacie na rachunek właściwej gminy w terminie do dnia 31 marca 2027 r., przy czym kwota wpłacona w tym terminie nie stanowi zaległości podatkowej w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863);
+   2. wyższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2026 za miesiące, za które zostały uiszczone, kwota powstałej różnicy nie stanowi nadpłaty w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, a do jej zaliczenia lub zwrotu przepis art. 76 tej ustawy stosuje się odpowiednio.
 
 ### Art. 7. [podstawa wymiaru od 2028 r.]
 
@@ -136,4 +118,3 @@ W okresie 5 lat od dnia wejścia w życie niniejszej ustawy kwota podatku od nie
 ### Art. 9. [wejście w życie]
 
 Ustawa wchodzi w życie z dniem 1 stycznia 2027 r.
-
