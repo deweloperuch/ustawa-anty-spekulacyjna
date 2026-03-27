@@ -9,7 +9,8 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 1. w art. 1a:
    1. po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
       „1a) budynek mieszkalny jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
-      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);",
+      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);
+      1c) pustostan – budynek mieszkalny jednorodzinny lub lokal mieszkalny, w którym łączne zużycie energii elektrycznej i wody w okresie 6 następujących po sobie miesięcy danego roku podatkowego wyniosło mniej niż 10% średniego zużycia referencyjnego dla danego typu lokalu, określanego w drodze rozporządzenia przez ministra właściwego do spraw klimatu;",
    2. na pkt 2b skreśla się wyrazy „(Dz. U. z 2025 r. poz. 418)";
 2. na art. 3 w ust. 4 po wyrazach „ust. 4a–6" dodaje się wyrazy „i art. 5a ust. 6";
 3. na art. 4 w ust. 1:
@@ -51,6 +52,12 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    3. powierzchnię działki;
    4. powierzchnię budynku;
    5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.";
+
+   **Art. 5c.**
+   1. Rada gminy, w drodze uchwały, określa wysokość stawek podatku od nieruchomości dla pustostanów będących trzecim i kolejnym lokalem mieszkalnym lub budynkiem mieszkalnym jednorodzinnym w posiadaniu podatnika.
+   2. Stawka roczna, o której mowa w ust. 1, nie może być niższa niż 3% wartości odtworzeniowej lokalu lub budynku, określanej na podstawie wskaźników przeliczeniowych kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych, ogłaszanych przez wojewodów.
+   3. Przez liczbę lokali lub budynków będących w posiadaniu podatnika na potrzeby niniejszego artykułu stosuje się zasady agregacji określone w art. 5a ust. 2.
+   4. Ustala się obowiązek corocznego raportowania zużycia mediów (energii elektrycznej i wody) do organu podatkowego właściwego ze względu na miejsce położenia nieruchomości, w celu weryfikacji statusu pustostanu. Organ podatkowy uprawniony jest do weryfikacji oświadczeń u dostawców mediów."
 
 6. na art. 6 w ust. 13 po wyrazach „podatku od nieruchomości" dodaje się wyrazy „, w tym ustalenia liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących przedmiotem opodatkowania i daty ich nabycia";
 7. na art. 7a w ust. 3 w zdaniu drugim po wyrazach „przedmiotu opodatkowania" dodaje się wyrazy „, w tym datę nabycia budynku mieszkalnego jednorodzinnego albo lokalu mieszkalnego".
