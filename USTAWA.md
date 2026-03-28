@@ -95,7 +95,7 @@ W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 20
 
 ### Art. 3. [zmiana Prawa geodezyjnego i kartograficznego]
 
-W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792) na art. 24b:
+W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792) w art. 24b:
 
 1. po ust. 2 dodaje się ust. 2a w brzmieniu:
    „2a. Zintegrowany system informacji o nieruchomościach udostępniany jest gminom w celu uzyskania informacji niezbędnych do ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych.";
