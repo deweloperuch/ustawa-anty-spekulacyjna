@@ -104,7 +104,7 @@ W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z
 
 ### Art. 4. [zmiana ustawy o ochronie praw nabywcy lokalu mieszkalnego]
 
-W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 na pkt 6 na dodawanym art. 56f ust. 1 otrzymuje brzmienie:
+W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 pkt 6, w dodawanym art. 56f ust. 1 otrzymuje brzmienie:
 
 „1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia w Portalu DOM, w tym na mapie, następujące informacje statystyczne:
 
