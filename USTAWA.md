@@ -6,7 +6,7 @@
 
 W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707) wprowadza się następujące zmiany:
 
-1. w art. 1a:
+1. na art. 1a:
    1. po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
       „1a) budynek mieszkalny jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
       1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);",
@@ -23,19 +23,19 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    1. uchyla się lit. a,
    2. lit. b otrzymuje brzmienie:
       „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
-5. po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
+5. po art. 5 dodaje się art. 5a, art. 5b, art. 5c i art. 5d w brzmieniu:
 
-   „**Art. 5a.**
+   „**Art. 5a.** [progresywny podatek od wartości nieruchomości]
 
    1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
-      1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
-      2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
-         1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
-         2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
-   2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik.
-   3. Stawkę, o której mowa w art. 5a ust. 1 pkt 2 oblicza się od trzeciego i kolejnego przedmiotu opodatkowania liczonego zgodnie z kolejnością ustaloną według dnia nabycia.
-   4. W przypadku gdy podatnik, będący właścicielem co najmniej jednego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, nabywa w tym samym dniu więcej niż jeden taki budynek lub lokal, dla ustalenia stawki podatku określonej w ust. 1 pkt 1 za pierwszy przyjmuje się budynek mieszkalny jednorodzinny lub lokal mieszkalny o najniższej wartości.
-   5. W przypadku gdy budynek mieszkalny jednorodzinny lub lokal mieszkalny stanowi współwłasność, wysokość podatku ustala się odpowiednio do liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych, będących przedmiotem opodatkowania każdego współwłaściciela.
+      1. 0,2% wartości – dla budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego pierwszy budynek mieszkalny jednorodzinny lub lokal mieszkalny będący własnością podatnika;
+      2. 1,5% wartości – dla budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego drugi budynek mieszkalny jednorodzinny lub lokal mieszkalny będący własnością podatnika;
+      3. 5% wartości – dla budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci budynek mieszkalny jednorodzinny lub lokal mieszkalny będący własnością podatnika;
+      4. dla budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego czwarty i każdy kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny będący własnością podatnika – stawkę oblicza się według wzoru: 5% + (N − 3) × 10 punktów procentowych, gdzie N oznacza numer kolejny budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego ustalonego zgodnie z ust. 3, z tym że stawka nie może przekroczyć 50% wartości.
+   2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik, a także budynki mieszkalne jednorodzinne i lokale mieszkalne będące własnością podmiotów, w których podatnik jest beneficjentem rzeczywistym w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124).
+   3. Kolejność budynków mieszkalnych jednorodzinnych i lokali mieszkalnych, o której mowa w ust. 1, ustala się według dnia nabycia, poczynając od najwcześniejszego.
+   4. W przypadku gdy podatnik nabywa w tym samym dniu więcej niż jeden budynek mieszkalny jednorodzinny lub lokal mieszkalny, kolejność tych budynków i lokali ustala się według ich wartości, poczynając od najniższej.
+   5. W przypadku gdy budynek mieszkalny jednorodzinny lub lokal mieszkalny stanowi współwłasność, wysokość podatku ustala się odpowiednio do liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych będących przedmiotem opodatkowania każdego współwłaściciela.
    6. W przypadku budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego odpowiedzialność solidarna za zobowiązanie podatkowe, o której mowa w art. 3 ust. 4, ogranicza się do wysokości stawki, według której ustalono podatek dla danego współwłaściciela.
    7. Niezależnie od liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych stanowiących przedmiot opodatkowania danego podatnika, stawce podatku, o której mowa w ust. 1 pkt 1, podlegają:
       1. budynki mieszkalne jednorodzinne i lokale mieszkalne będące własnością państwowej osoby prawnej, spółdzielni mieszkaniowej, towarzystwa budownictwa społecznego, społecznej inicjatywy mieszkaniowej lub społecznej agencji najmu;
@@ -43,14 +43,46 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
       4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
       5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
+   8. Przy ustalaniu liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych, o której mowa w ust. 1, organ podatkowy uwzględnia dane z Centralnego Rejestru Beneficjentów Rzeczywistych, o którym mowa w rozdziale 6 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+   9. Podmiotom, których beneficjent rzeczywisty nie może zostać ustalony na podstawie danych zawartych w Centralnym Rejestrze Beneficjentów Rzeczywistych lub w odpowiednim rejestrze państwa, z którym Rzeczpospolita Polska zawarła umowę o wymianie informacji podatkowej, oraz podmiotom mającym siedzibę lub miejsce zarządu w państwie lub na terytorium stosującym szkodliwą konkurencję podatkową w rozumieniu przepisów wydanych na podstawie art. 11j ust. 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278), stosuje się stawkę podatku w wysokości 50% wartości niezależnie od liczby posiadanych budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych.
 
-   **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
+   **Art. 5b.** [współczynniki korygujące gmin]
+
+   Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
    1. rok budowy;
    2. lokalizację;
    3. powierzchnię działki;
    4. powierzchnię budynku;
-   5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.";
+   5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.
+
+   **Art. 5c.** [obowiązek zgłoszenia zakupów hurtowych]
+
+   1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która w okresie kolejnych 12 miesięcy nabywa na terenie Rzeczypospolitej Polskiej trzeci i każdy kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny, jest obowiązana złożyć właściwemu organowi podatkowemu oświadczenie o nabyciu, w terminie 14 dni od dnia nabycia.
+   2. Oświadczenie, o którym mowa w ust. 1, zawiera:
+      1. dane identyfikacyjne nabywcy, w tym numer identyfikacji podatkowej;
+      2. oznaczenie nabytego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, w tym adres, numer księgi wieczystej i datę nabycia;
+      3. wskazanie łącznej liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących własnością nabywcy na dzień nabycia, z uwzględnieniem nieruchomości będących własnością podmiotów, w których nabywca jest beneficjentem rzeczywistym;
+      4. cenę nabycia.
+   3. W przypadku nabycia czwartego i każdego kolejnego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego w okresie, o którym mowa w ust. 1, stawka podatku od czynności cywilnoprawnych z tytułu takiego nabycia, określona w ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2025 r. poz. 295), ulega podwyższeniu o:
+      1. 5 punktów procentowych – w przypadku czwartego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego nabytego w tym okresie;
+      2. 10 punktów procentowych – w przypadku piątego i każdego kolejnego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego nabytego w tym okresie.
+   4. Przy ustalaniu liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych nabytych w okresie, o którym mowa w ust. 1, uwzględnia się nabycia dokonane zarówno przez nabywcę, jak i przez podmioty, w których nabywca jest beneficjentem rzeczywistym w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+   5. Niezłożenie oświadczenia, o którym mowa w ust. 1, w terminie stanowi wykroczenie skarbowe podlegające karze grzywny określonej w ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628).
+
+   **Art. 5d.** [klauzula przeciwko unikaniu progresji podatkowej]
+
+   1. Organ podatkowy może pominąć strukturę prawną nabycia lub posiadania budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego i ustalić stawkę podatku na podstawie rzeczywistego stanu kontroli nad nieruchomością, jeżeli głównym lub jednym z głównych celów zastosowanej struktury prawnej było uniknięcie lub obniżenie stawki progresywnej, o której mowa w art. 5a ust. 1.
+   2. Za strukturę prawną, o której mowa w ust. 1, uznaje się w szczególności:
+      1. nabycie budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego za pośrednictwem podmiotu, w tym spółki celowej, trustu, fundacji rodzinnej lub innej jednostki organizacyjnej, w celu obejścia progresji podatkowej;
+      2. umowę powierniczą, umowę zlecenia, umowę komisu lub inną umowę o podobnym charakterze, której skutkiem jest formalne przeniesienie własności budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego na inny podmiot przy zachowaniu faktycznej kontroli przez podatnika;
+      3. sztuczne rozdzielenie własności budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego pomiędzy podmioty powiązane z podatnikiem w rozumieniu art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+      4. leasing zwrotny budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, którego celem jest zmiana formalnego właściciela przy zachowaniu faktycznego władztwa nad nieruchomością przez dotychczasowego właściciela.
+   3. Organ podatkowy, stosując ust. 1, ustala rzeczywistą liczbę budynków mieszkalnych jednorodzinnych i lokali mieszkalnych kontrolowanych przez podatnika i na tej podstawie określa właściwą stawkę podatku zgodnie z art. 5a ust. 1.
+   4. Ciężar udowodnienia, że zastosowana struktura prawna miała uzasadnienie gospodarcze inne niż unikanie progresji podatkowej, spoczywa na podatniku.
+   5. Do postępowania w sprawie zastosowania ust. 1 stosuje się odpowiednio przepisy działu IIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczące klauzuli przeciwko unikaniu opodatkowania, z tym że:
+      1. organem właściwym do wydania decyzji jest organ podatkowy właściwy w sprawie podatku od nieruchomości;
+      2. nie jest wymagana opinia Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania, o której mowa w art. 119e Ordynacji podatkowej, jeżeli wartość korzyści podatkowej wynikającej z zastosowanej struktury nie przekracza 500 000 zł.";
 
 6. na art. 6 w ust. 13 po wyrazach „podatku od nieruchomości" dodaje się wyrazy „, w tym ustalenia liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących przedmiotem opodatkowania i daty ich nabycia";
 7. na art. 7a w ust. 3 w zdaniu drugim po wyrazach „przedmiotu opodatkowania" dodaje się wyrazy „, w tym datę nabycia budynku mieszkalnego jednorodzinnego albo lokalu mieszkalnego".
@@ -72,7 +104,7 @@ W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z
 
 ### Art. 4. [zmiana ustawy o ochronie praw nabywcy lokalu mieszkalnego]
 
-W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 na pkt 6 w dodawanym art. 56f ust. 1 otrzymuje brzmienie:
+W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 pkt 6, w dodawanym art. 56f ust. 1 otrzymuje brzmienie:
 
 „1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia w Portalu DOM, w tym na mapie, następujące informacje statystyczne:
 
@@ -86,7 +118,7 @@ W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabyw
 
 ### Art. 5. [obowiązek wskazania nieruchomości]
 
-Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były podatnikami podatku od nieruchomości, którego przedmiotem opodatkowania były więcej niż dwa budynki mieszkalne jednorodzinne lub lokale mieszkalne wskazują, w terminie do 31 stycznia 2027 r., właściwemu organowi podatkowemu budynki mieszkalne jednorodzinne lub lokale mieszkalne, w celu ustalenia nieruchomości podlegających stawce opodatkowania określonej w art. 5a ust. 1 pkt 2 ustawy zmienianej w art. 1.
+Osoby fizyczne oraz osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej, które przed dniem wejścia w życie niniejszej ustawy były podatnikami podatku od nieruchomości, którego przedmiotem opodatkowania były więcej niż dwa budynki mieszkalne jednorodzinne lub lokale mieszkalne, wskazują, w terminie do 31 stycznia 2027 r., właściwemu organowi podatkowemu budynki mieszkalne jednorodzinne lub lokale mieszkalne, w celu ustalenia nieruchomości podlegających stawce opodatkowania określonej w art. 5a ust. 1 pkt 2–4 ustawy zmienianej w art. 1, wraz ze wskazaniem podmiotów, w których są beneficjentami rzeczywistymi, oraz budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących własnością tych podmiotów.
 
 ### Art. 6. [przepisy przejściowe dotyczące deklaracji na 2027 r.]
 
