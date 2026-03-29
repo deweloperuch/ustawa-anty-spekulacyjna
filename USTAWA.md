@@ -9,7 +9,11 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 1. w art. 1a:
    1. po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
       „1a) budynek mieszkalny jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
-      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);",
+      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);
+      1c) pustostan mieszkalny – budynek mieszkalny jednorodzinny lub lokal mieszkalny, w którym łączne zużycie energii elektrycznej i wody w okresie co najmniej 6 kolejnych miesięcy nie przekroczyło 10% średniego zużycia przypadającego na budynek mieszkalny jednorodzinny lub lokal mieszkalny o porównywalnej powierzchni użytkowej na terenie danej gminy, z wyłączeniem budynków i lokali:
+      a) w trakcie remontu lub przebudowy, na które wydano pozwolenie na budowę lub dokonano zgłoszenia, przez okres nie dłuższy niż 12 miesięcy od dnia wydania pozwolenia lub dokonania zgłoszenia,
+      b) wystawionych na sprzedaż, przez okres nie dłuższy niż 6 miesięcy od dnia pierwszego wystawienia oferty sprzedaży,
+      c) w okresie 3 miesięcy od dnia zakończenia poprzedniego stosunku najmu;",
    2. na pkt 2b skreśla się wyrazy „(Dz. U. z 2025 r. poz. 418)";
 2. na art. 3 w ust. 4 po wyrazach „ust. 4a–6" dodaje się wyrazy „i art. 5a ust. 6";
 3. na art. 4 w ust. 1:
@@ -50,7 +54,15 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    2. lokalizację;
    3. powierzchnię działki;
    4. powierzchnię budynku;
-   5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.";
+   5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.
+
+   **Art. 5c.**
+
+   1. Stawka podatku od budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego będącego pustostanem mieszkalnym, o którym mowa w art. 1a pkt 1c, wynosi 3% wartości, niezależnie od stawki wynikającej z art. 5a.
+   2. W przypadku gdy stawka wynikająca z art. 5a jest wyższa niż stawka określona w ust. 1, stosuje się stawkę wyższą.
+   3. Organ podatkowy ustala, czy budynek mieszkalny jednorodzinny lub lokal mieszkalny jest pustostanem mieszkalnym, na podstawie danych o zużyciu energii elektrycznej i wody pozyskanych od przedsiębiorstw energetycznych i przedsiębiorstw wodociągowo-kanalizacyjnych.
+   4. Przedsiębiorstwa energetyczne w rozumieniu ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2024 r. poz. 266) oraz przedsiębiorstwa wodociągowo-kanalizacyjne w rozumieniu ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757) są obowiązane, na żądanie organu podatkowego, udostępnić dane o zużyciu energii elektrycznej i wody dla wskazanego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, w terminie 30 dni od dnia otrzymania żądania.
+   5. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw energii oraz ministrem właściwym do spraw gospodarki wodnej określi, w drodze rozporządzenia, sposób ustalania średniego zużycia energii elektrycznej i wody, o którym mowa w art. 1a pkt 1c, oraz tryb pozyskiwania danych od przedsiębiorstw, o których mowa w ust. 4, mając na uwadze potrzebę rzetelnej weryfikacji statusu pustostanu mieszkalnego oraz ochronę danych osobowych.";
 
 6. na art. 6 w ust. 13 po wyrazach „podatku od nieruchomości" dodaje się wyrazy „, w tym ustalenia liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących przedmiotem opodatkowania i daty ich nabycia";
 7. na art. 7a w ust. 3 w zdaniu drugim po wyrazach „przedmiotu opodatkowania" dodaje się wyrazy „, w tym datę nabycia budynku mieszkalnego jednorodzinnego albo lokalu mieszkalnego".
