@@ -43,6 +43,14 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
       4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
       5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
+   8. Stawka podatku, o której mowa w ust. 1, ulega zwiększeniu o:
+      1. 2,0 punkty procentowe - w przypadku gdy podatnikiem jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, z wyłączeniem podmiotów, o których mowa w ust. 7 pkt 1 i 2;
+      2. 5,0 punktów procentowych - w przypadku gdy podatnikiem jest:
+         a) osoba fizyczna nieposiadająca miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej,
+         b) osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która nie ma siedziby na terytorium Rzeczypospolitej Polskiej,
+         c) podmiot kontrolowany bezpośrednio lub pośrednio przez osoby lub podmioty, o których mowa w lit. a i b
+      - z wyłączeniem podmiotów, o których mowa w ust. 7 pkt 1 i 2.
+   9. Zwiększenia, o których mowa w ust. 8, stosuje się łącznie, jeżeli podatnik spełnia warunki określone jednocześnie w ust. 8 pkt 1 i pkt 2.
 
    **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
