@@ -22,13 +22,14 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 4. na art. 5 w ust. 1 na pkt 2:
    1. uchyla się lit. a,
    2. lit. b otrzymuje brzmienie:
-      „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
+      „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej, pod warunkiem że lokal lub budynek posiada w ewidencji gruntów i budynków funkcję inną niż mieszkalna – 35,53 zł od 1 m² powierzchni użytkowej,";
 5. po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
 
    „**Art. 5a.**
 
    1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
       1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
+      1a. 0,02% wartości dla budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego wytworzonego przez podatnika będącego deweloperem w rozumieniu art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, przez okres 12 miesięcy od dnia uzyskania pozwolenia na użytkowanie, nie dłużej jednak niż do dnia zbycia tego budynku lub lokalu;
       2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
          1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
          2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
