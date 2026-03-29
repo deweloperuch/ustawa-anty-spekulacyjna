@@ -22,7 +22,7 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 4. na art. 5 w ust. 1 na pkt 2:
    1. uchyla się lit. a,
    2. lit. b otrzymuje brzmienie:
-      „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
+      „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej, z wyłączeniem budynków mieszkalnych jednorodzinnych i lokali mieszkalnych wykorzystywanych do najmu na cele mieszkaniowe – 35,53 zł od 1 m² powierzchni użytkowej,";
 5. po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
 
    „**Art. 5a.**
