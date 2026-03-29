@@ -1,118 +1,147 @@
-# Ustawa z dnia ……. 2026 r. o zmianie ustawy o podatkach i opłatach lokalnych oraz niektórych innych ustaw
+# Ustawa z dnia ……. 2026 r. o zmianie ustawy o podatkach i opłatach lokalnych
 
-## *Przepisy nowelizujące*
+Art. 1. W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707) wprowadza się następujące zmiany:
 
-### Art. 1. [zmiana ustawy o podatkach i opłatach lokalnych]
+1) na art. 1 po pkt 1 dodaje się pkt 1a w brzmieniu:
 
-W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707) wprowadza się następujące zmiany:
+   „1a) podatek od nadwyżki wartości nieruchomości mieszkalnych;";
 
-1. w art. 1a:
-   1. po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
-      „1a) budynek mieszkalny jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
-      1b) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2026 r. poz. 232);",
-   2. na pkt 2b skreśla się wyrazy „(Dz. U. z 2025 r. poz. 418)";
-2. na art. 3 w ust. 4 po wyrazach „ust. 4a–6" dodaje się wyrazy „i art. 5a ust. 6";
-3. na art. 4 w ust. 1:
-   1. pkt 2 otrzymuje brzmienie:
-      „2) dla budynków niebędących budynkiem mieszkalnym jednorodzinnym albo lokalem mieszkalnym lub ich części – powierzchnia użytkowa;",
-   2. po pkt 2 dodaje się pkt 2a w brzmieniu:
-      „2a) dla budynków mieszkalnych jednorodzinnych i lokali mieszkalnych – wartość ustalana jako iloczyn liczby m² ich powierzchni użytkowej oraz:
-      a) średniej ceny transakcyjnej m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych na terenie gminy, w której znajduje się przedmiot opodatkowania, podanej na dzień 30 września roku poprzedzającego rok podatkowy, na który ustalana jest wysokość podatku, w Portalu Danych o Obrocie Mieszkaniami, o którym mowa w rozdziale 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27) albo w przypadku braku dostępnych danych o których mowa w lit. a
-      b) wskaźnika przeliczeniowego kosztu odtworzenia 1 m² powierzchni użytkowej budynków mieszkalnych określonego przez wojewodę na podstawie art. 2 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), obowiązującego na dzień 31 grudnia roku poprzedzającego rok podatkowy, na który ustalana jest wysokość podatku, na terenie gminy, w której jest położony przedmiot opodatkowania.";
-4. na art. 5 w ust. 1 na pkt 2:
-   1. uchyla się lit. a,
-   2. lit. b otrzymuje brzmienie:
-      „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
-5. po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
+2) na art. 1a w ust. 1 dodaje się pkt 8–14 w brzmieniu:
 
-   „**Art. 5a.**
+   „8) nieruchomość mieszkalna — lokal mieszkalny, budynek mieszkalny jednorodzinny lub budynek o funkcji mieszanej w części przeznaczonej na cele mieszkaniowe;
 
-   1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
-      1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
-      2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
-         1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
-         2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
-   2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik.
-   3. Stawkę, o której mowa w art. 5a ust. 1 pkt 2 oblicza się od trzeciego i kolejnego przedmiotu opodatkowania liczonego zgodnie z kolejnością ustaloną według dnia nabycia.
-   4. W przypadku gdy podatnik, będący właścicielem co najmniej jednego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, nabywa w tym samym dniu więcej niż jeden taki budynek lub lokal, dla ustalenia stawki podatku określonej w ust. 1 pkt 1 za pierwszy przyjmuje się budynek mieszkalny jednorodzinny lub lokal mieszkalny o najniższej wartości.
-   5. W przypadku gdy budynek mieszkalny jednorodzinny lub lokal mieszkalny stanowi współwłasność, wysokość podatku ustala się odpowiednio do liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych, będących przedmiotem opodatkowania każdego współwłaściciela.
-   6. W przypadku budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego odpowiedzialność solidarna za zobowiązanie podatkowe, o której mowa w art. 3 ust. 4, ogranicza się do wysokości stawki, według której ustalono podatek dla danego współwłaściciela.
-   7. Niezależnie od liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych stanowiących przedmiot opodatkowania danego podatnika, stawce podatku, o której mowa w ust. 1 pkt 1, podlegają:
-      1. budynki mieszkalne jednorodzinne i lokale mieszkalne będące własnością państwowej osoby prawnej, spółdzielni mieszkaniowej, towarzystwa budownictwa społecznego, społecznej inicjatywy mieszkaniowej lub społecznej agencji najmu;
-      2. budynki mieszkalne jednorodzinne i lokale mieszkalne dzierżawione przez społeczną agencję najmu lub będące mieszkaniami treningowymi lub wspomaganymi;
-      3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
-      4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
-      5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
+   9) posiadanie nieruchomości mieszkalnej — prawo własności, współwłasność lub własnościowe spółdzielcze prawo do lokalu;
 
-   **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
+   10) wartość nieruchomości mieszkalnej — iloczyn powierzchni użytkowej nieruchomości mieszkalnej wyrażonej w metrach kwadratowych oraz średniej ceny metra kwadratowego w gminie, o której mowa w art. 7e;
 
-   1. rok budowy;
-   2. lokalizację;
-   3. powierzchnię działki;
-   4. powierzchnię budynku;
-   5. inne cechy wpływające na zmniejszenie lub zwiększenie wartości przedmiotu opodatkowania.";
+   11) łączna wartość nieruchomości mieszkalnych — sumę wartości wszystkich nieruchomości mieszkalnych posiadanych przez podatnika, z uwzględnieniem art. 7d;
 
-6. na art. 6 w ust. 13 po wyrazach „podatku od nieruchomości" dodaje się wyrazy „, w tym ustalenia liczby budynków mieszkalnych jednorodzinnych i lokali mieszkalnych będących przedmiotem opodatkowania i daty ich nabycia";
-7. na art. 7a w ust. 3 w zdaniu drugim po wyrazach „przedmiotu opodatkowania" dodaje się wyrazy „, w tym datę nabycia budynku mieszkalnego jednorodzinnego albo lokalu mieszkalnego".
+   12) mediana krajowa ceny metra kwadratowego nieruchomości mieszkalnej — średnią cenę metra kwadratowego tej gminy, dla której suma liczby mieszkańców gmin o niższej lub równej średniej cenie metra kwadratowego stanowi co najmniej połowę łącznej liczby mieszkańców wszystkich gmin w Rzeczypospolitej Polskiej, przy czym gminy porządkuje się rosnąco według średniej ceny metra kwadratowego opublikowanej zgodnie z art. 7e ust. 1, a liczbę mieszkańców poszczególnych gmin ustala się na podstawie danych Głównego Urzędu Statystycznego według stanu na dzień 31 grudnia roku poprzedzającego rok obliczenia;
 
-### Art. 2. [zmiana ustawy o księgach wieczystych i hipotece]
+   13) mediana krajowa ceny nieruchomości mieszkalnej — iloczyn mediany krajowej ceny metra kwadratowego nieruchomości mieszkalnej oraz 70;
 
-W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793) w art. 36⁴ po ust. 16 dodaje się ust. 16a w brzmieniu:
+   14) RCN — Rejestr Cen Nieruchomości, o którym mowa w przepisach ustawy z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151).";
 
-„16a. Centralna Informacja umożliwia organom podatkowym właściwym dla ustalania podatku od nieruchomości, w celu ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych albo lokali mieszkalnych, bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym, drugim i trzecim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.".
+3) po art. 7b dodaje się rozdział 2b w brzmieniu:
 
-### Art. 3. [zmiana Prawa geodezyjnego i kartograficznego]
+   „Rozdział 2b
 
-W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792) w art. 24b:
+   Podatek od nadwyżki wartości nieruchomości mieszkalnych
 
-1. po ust. 2 dodaje się ust. 2a w brzmieniu:
-   „2a. Zintegrowany system informacji o nieruchomościach udostępniany jest gminom w celu uzyskania informacji niezbędnych do ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych.";
-2. ust. 4 otrzymuje brzmienie:
-   „4. Rada Ministrów określi, w drodze rozporządzenia, sposób, tryb i standardy techniczne tworzenia i prowadzenia zintegrowanego systemu informacji o nieruchomościach, treść, formę i sposób przekazywania zawiadomień, o których mowa w ust. 1 pkt 3, oraz zakres i sposób udostępniania informacji, o których mowa w ust. 2a, mając na uwadze usprawnienie funkcjonowania systemu informacyjnego państwa dotyczącego nieruchomości, przez tworzenie rozwiązań umożliwiających zapewnienie spójności i aktualności danych dotyczących nieruchomości, zawartych w różnych rejestrach publicznych, automatyzację procesów ich aktualizacji, a także jak najszersze wykorzystanie informacji zgromadzonych w tych rejestrach do celów publicznych, oraz uwzględniając stan informatyzacji tych rejestrów i potrzebę sprawnego ustalania stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych.".
+   **Art. 7c.** 1. Podatkowi od nadwyżki wartości nieruchomości mieszkalnych, zwanemu dalej w niniejszym rozdziale „podatkiem od nadwyżki", podlega posiadanie nieruchomości mieszkalnych, których łączna wartość przekracza próg określony w art. 7f ust. 1 pkt 1.
 
-### Art. 4. [zmiana ustawy o ochronie praw nabywcy lokalu mieszkalnego]
+   2\. Podatnikami podatku od nadwyżki są:
 
-W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669) w art. 1 na pkt 6 w dodawanym art. 56f ust. 1 otrzymuje brzmienie:
+   1) osoby fizyczne,
+   2) osoby prawne,
+   3) jednostki organizacyjne nieposiadające osobowości prawnej
 
-„1. Ubezpieczeniowy Fundusz Gwarancyjny upublicznia w Portalu DOM, w tym na mapie, następujące informacje statystyczne:
+   — będące posiadaczami nieruchomości mieszkalnych w rozumieniu art. 1a ust. 1 pkt 9.
 
-1. o średnich cenach transakcyjnych lokali mieszkalnych albo domów jednorodzinnych lub średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych, lub medianach tych cen transakcyjnych,
-2. o liczbie transakcji, z których pochodzą ceny transakcyjne uwzględnione przy generowaniu informacji, o których mowa w pkt 1,
-3. średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych dla obszaru danej gminy, na dzień 30 września każdego roku
+   3\. W przypadku własności osób prawnych za podatnika uznaje się rzeczywistego właściciela, tj. podmiot, który spełnia łącznie następujące warunki:
 
-– z możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia do wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia.";
+   1) otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
+   2) nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części należności innemu podmiotowi,
+   3) prowadzi rzeczywistą działalność gospodarczą w kraju siedziby, jeżeli należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, uwzględnia się charakter oraz skalę działalności prowadzonej przez ten podmiot w zakresie otrzymanej należności.
 
-## *Przepisy przejściowe i końcowe*
+   4\. Podatkowi od nadwyżki nie podlegają nieruchomości mieszkalne będące własnością podmiotów, o których mowa w art. 7 ust. 2, a także będące własnością:
 
-### Art. 5. [obowiązek wskazania nieruchomości]
+   1) towarzystw budownictwa społecznego, o których mowa w ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273),
+   2) społecznych inicjatyw mieszkaniowych, o których mowa w ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa,
+   3) jednostek samorządu terytorialnego,
+   4) spółek z ograniczoną odpowiedzialnością lub spółek akcyjnych, w których gmina lub gminy dysponują odpowiednio ponad 50% głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, niedziałających w formie społecznej inicjatywy mieszkaniowej,
+   5) spółdzielni mieszkaniowych,
+   6) społecznych agencji najmu, o których mowa w ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
 
-Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były podatnikami podatku od nieruchomości, którego przedmiotem opodatkowania były więcej niż dwa budynki mieszkalne jednorodzinne lub lokale mieszkalne wskazują, w terminie do 31 stycznia 2027 r., właściwemu organowi podatkowemu budynki mieszkalne jednorodzinne lub lokale mieszkalne, w celu ustalenia nieruchomości podlegających stawce opodatkowania określonej w art. 5a ust. 1 pkt 2 ustawy zmienianej w art. 1.
+   5\. Podatkowi od nadwyżki nie podlegają nieruchomości mieszkalne zwolnione od podatku od nieruchomości na mocy art. 7 ust. 1, a także:
 
-### Art. 6. [przepisy przejściowe dotyczące deklaracji na 2027 r.]
+   1) nieruchomości mieszkalne dzierżawione przez społeczną agencję najmu,
+   2) nieruchomości mieszkalne będące mieszkaniami treningowymi lub wspomaganymi w rozumieniu przepisów o pomocy społecznej,
+   3) nieruchomości mieszkalne, dla których do organu nadzoru budowlanego zostało złożone prawidłowe zgłoszenie zamiaru rozbiórki, pod warunkiem wykonania prac rozbiórkowych w terminie dwunastu miesięcy od dnia złożenia zgłoszenia,
+   4) nieruchomości mieszkalne, co do których został wydany zakaz użytkowania.
 
-1. W 2027 r. podatnicy, o których mowa w art. 6 ust. 9 ustawy zmienianej w art. 1, mogą składać deklaracje na podatek od nieruchomości na rok 2027 w terminie do dnia 31 marca 2027 r., jeżeli spełnią warunki określone w ust. 2.
-2. W celu skorzystania z uprawnienia, o którym mowa w ust. 1, podatnicy są obowiązani:
-   1. złożyć do właściwego organu podatkowego w terminie do dnia 31 stycznia 2027 r. pisemne zawiadomienie o skorzystaniu z tego uprawnienia, zawierające:
-      1. nazwę organu podatkowego, do którego zawiadomienie jest kierowane,
-      2. nazwę podatnika składającego zawiadomienie, adres jego siedziby oraz jego identyfikator podatkowy,
-      3. oświadczenie o skorzystaniu z uprawnienia do złożenia deklaracji na podatek od nieruchomości na rok 2027 w terminie do dnia 31 marca 2027 r.;
-   2. bez wezwania organu podatkowego, wpłacić na rachunek właściwej gminy miesięczne raty podatku od nieruchomości:
-      1. za styczeń – w terminie do dnia 31 stycznia 2027 r.,
-      2. za luty – w terminie do dnia 15 lutego 2027 r.,
-      3. za marzec – w terminie do dnia 15 marca 2027 r.
-      – w wysokości odpowiadającej średniej miesięcznej kwocie należnego podatku za 2026 r.
-3. W przypadku gdy uiszczone raty, o których mowa w ust. 2, są:
-   1. niższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2027 za miesiące, za które zostały uiszczone, brakująca kwota podatku pozostała do zapłaty podlega, bez wezwania organu podatkowego, wpłacie na rachunek właściwej gminy w terminie do dnia 31 marca 2027 r., przy czym kwota wpłacona w tym terminie nie stanowi zaległości podatkowej w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863);
-   2. wyższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2026 za miesiące, za które zostały uiszczone, kwota powstałej różnicy nie stanowi nadpłaty w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, a do jej zaliczenia lub zwrotu przepis art. 76 tej ustawy stosuje się odpowiednio.
+   6\. W przypadku niewykonania prac rozbiórkowych w terminie określonym w ust. 5 pkt 3, obowiązek podatkowy powstaje z mocą wsteczną od pierwszego dnia roku podatkowego, w którym zostało złożone zgłoszenie rozbiórki.
 
-### Art. 7. [podstawa wymiaru od 2028 r.]
+   **Art. 7d.** 1. W przypadku udziału w nieruchomości mieszkalnej do łącznej wartości nieruchomości mieszkalnych podatnika wlicza się wartość nieruchomości proporcjonalnie do wielkości posiadanego udziału.
 
-Podstawa wymiaru podatku od nieruchomości, o której mowa w art. 4 ust. 1 pkt 2a lit. a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, może być zastosowana do wymiaru podatku należnego od roku 2028.
+   2\. W przypadku współwłasności łącznej w ramach wspólności majątkowej małżeńskiej, jeżeli oboje małżonkowie nie posiadają nieruchomości mieszkalnych stanowiących ich majątek osobisty, małżonkowie rozliczają się wspólnie. W takim przypadku progi, o których mowa w art. 7f ust. 1, ulegają podwojeniu.
 
-### Art. 8. [ograniczenie wysokości podatku w okresie przejściowym]
+   3\. W przypadku gdy co najmniej jedno z małżonków pozostających we wspólności majątkowej małżeńskiej posiada nieruchomość mieszkalną stanowiącą majątek osobisty, każde z małżonków rozlicza się osobno. Wartość nieruchomości objętych współwłasnością małżeńską wlicza się do łącznej wartości nieruchomości mieszkalnych każdego z małżonków w pełnej wysokości.
 
-W okresie 5 lat od dnia wejścia w życie niniejszej ustawy kwota podatku od nieruchomości należnego od budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, podlegającego stawce, o której mowa w art. 5a ust. 1 pkt 1 ustawy zmienianej w art. 1, nie może być wyższa niż kwota podatku, jaka byłaby należna od tego przedmiotu opodatkowania przy zastosowaniu stawki podatku od nieruchomości od budynków mieszkalnych określonej w art. 5 ust. 1 pkt 2 lit. a ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707, 726 i 1113).
+   4\. W przypadku, o którym mowa w ust. 3, jedno z małżonków, wskazane w drodze zgodnego oświadczenia złożonego właściwemu organowi podatkowemu, może odliczyć od należnego podatku od nadwyżki kwotę podatku zapłaconego przez drugiego małżonka w części przypadającej na nieruchomości objęte współwłasnością małżeńską.
 
-### Art. 9. [wejście w życie]
+   **Art. 7e.** 1. Wójt, burmistrz lub prezydent miasta publikuje, w drodze obwieszczenia, w terminie do dnia 30 października każdego roku, średnią cenę metra kwadratowego nieruchomości mieszkalnych na terenie gminy.
 
-Ustawa wchodzi w życie z dniem 1 stycznia 2027 r.
+   2\. Średnią cenę metra kwadratowego nieruchomości mieszkalnych ustala się na podstawie modelu regresji liniowej postaci:
+
+   C_i = β₀ + β₁ × P_u,i + β₂ × P_dz,i + ε_i
+
+   gdzie:
+   - C_i — cena transakcyjna i-tej nieruchomości mieszkalnej,
+   - P_u,i — powierzchnia użytkowa nieruchomości w metrach kwadratowych,
+   - P_dz,i — powierzchnia działki w metrach kwadratowych, a w przypadku lokali mieszkalnych — powierzchnia udziału w gruncie,
+   - β₀, β₁, β₂ — współczynniki regresji,
+   - ε_i — składnik losowy,
+
+   oszacowanego na podstawie transakcji zarejestrowanych w RCN. Średnią cenę metra kwadratowego stanowi współczynnik β₁.
+
+   3\. Model, o którym mowa w ust. 2, szacuje się na podstawie transakcji z okresu co najmniej 12 miesięcy kończącego się dnia 30 września roku, w którym następuje publikacja. Jeżeli liczba transakcji w tym okresie jest mniejsza niż 50, okres wydłuża się o kolejne 12 miesięcy, aż do osiągnięcia co najmniej 50 transakcji.
+
+   4\. Wartość nieruchomości mieszkalnej podatnika ustala się jako iloczyn powierzchni użytkowej nieruchomości oraz średniej ceny metra kwadratowego w gminie, na terenie której nieruchomość jest położona, opublikowanej zgodnie z ust. 1.
+
+   5\. W przypadku budynków o funkcji mieszanej wartość nieruchomości ustala się wyłącznie w odniesieniu do części przeznaczonej na cele mieszkaniowe, proporcjonalnie do udziału powierzchni użytkowej mieszkalnej w całkowitej powierzchni użytkowej budynku.
+
+   6\. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe zasady obliczania średniej ceny, o której mowa w ust. 2, w tym sposób szacowania modelu regresji oraz procedurę postępowania w przypadku niewystarczającej liczby transakcji na terenie gminy po wyczerpaniu procedury, o której mowa w ust. 3, mając na względzie zapewnienie obiektywności i zgodności wyceny z wartościami rynkowymi.
+
+   **Art. 7f.** 1. Stawki podatku od nadwyżki wynoszą:
+
+   1) 1% od nadwyżki łącznej wartości nieruchomości mieszkalnych podatnika ponad trzykrotność mediany krajowej ceny nieruchomości mieszkalnej (próg I),
+   2) 2% od nadwyżki łącznej wartości nieruchomości mieszkalnych podatnika ponad pięciokrotność mediany krajowej ceny nieruchomości mieszkalnej (próg II),
+   3) 3% od nadwyżki łącznej wartości nieruchomości mieszkalnych podatnika ponad ośmiokrotność mediany krajowej ceny nieruchomości mieszkalnej (próg III).
+
+   2\. Stawki, o których mowa w ust. 1, stosuje się progresywnie — każda kolejna stawka obejmuje wyłącznie nadwyżkę ponad odpowiedni próg.
+
+   3\. Podatek oblicza się według wzoru:
+
+   T = 0,01 × max(0, W − P_I) + 0,01 × max(0, W − P_II) + 0,01 × max(0, W − P_III)
+
+   gdzie:
+   - T — kwota podatku,
+   - W — łączna wartość nieruchomości mieszkalnych podatnika w rozumieniu art. 1a ust. 1 pkt 11,
+   - P_I — próg I,
+   - P_II — próg II,
+   - P_III — próg III.
+
+   4\. Rada Ministrów ogłasza, w drodze obwieszczenia, w terminie do dnia 30 listopada każdego roku, medianę krajową ceny metra kwadratowego nieruchomości mieszkalnej oraz medianę krajową ceny nieruchomości mieszkalnej, o których mowa w art. 1a ust. 1 pkt 12 i 13, obowiązujące w roku podatkowym następującym po roku ogłoszenia. Mediany oblicza się na podstawie średnich cen metra kwadratowego opublikowanych przez gminy zgodnie z art. 7e ust. 1.
+
+   **Art. 7g.** 1. Dochody z podatku od nadwyżki stanowią dochody budżetów gmin, na terenie których położone są nieruchomości mieszkalne podatnika.
+
+   2\. Kwotę podatku przypadającą na daną gminę oblicza się jako iloczyn łącznej kwoty podatku należnego od podatnika oraz stosunku sumy wartości nieruchomości mieszkalnych podatnika położonych na terenie tej gminy do łącznej wartości wszystkich nieruchomości mieszkalnych podatnika.
+
+   **Art. 7h.** 1. Do powstania i wygaśnięcia obowiązku podatkowego w zakresie podatku od nadwyżki stosuje się odpowiednio przepisy art. 6 ust. 1–5.
+
+   2\. Podatnik składa deklarację na podatek od nadwyżki odrębnie w każdej gminie, na terenie której posiada nieruchomość mieszkalną. Do terminów i zasad składania deklaracji stosuje się odpowiednio przepisy art. 6 ust. 6, 9 i 10.
+
+   3\. Deklaracja zawiera w szczególności:
+
+   1) wykaz nieruchomości mieszkalnych podatnika położonych na terenie gminy wraz z ich powierzchnią użytkową, wielkością udziału w przypadku współwłasności oraz wartością ustaloną zgodnie z art. 7e,
+   2) łączną wartość wszystkich nieruchomości mieszkalnych podatnika na terenie Rzeczypospolitej Polskiej,
+   3) obliczenie kwoty podatku przypadającej na gminę zgodnie z art. 7g ust. 2.
+
+   4\. Do płatności podatku od nadwyżki stosuje się odpowiednio przepisy art. 6 ust. 7, 9 pkt 3 i ust. 11a.
+
+   5\. Gmina przekazuje kopię deklaracji, o której mowa w ust. 2, do właściwego naczelnika urzędu skarbowego w terminie 30 dni od dnia jej otrzymania, w celu weryfikacji, o której mowa w ust. 6.
+
+   6\. Naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika dokonuje weryfikacji spójności deklaracji złożonych przez podatnika we wszystkich gminach. W przypadku stwierdzenia niezgodności naczelnik urzędu skarbowego wszczyna postępowanie podatkowe na zasadach określonych w ustawie z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111).
+
+   7\. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór deklaracji na podatek od nadwyżki wartości nieruchomości mieszkalnych oraz szczegółowy zakres zawartych w niej danych, mając na uwadze prawidłowe obliczenie podatku oraz umożliwienie weryfikacji, o której mowa w ust. 6.";
+
+4) na art. 20 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+   „3a) podatku od nadwyżki wartości nieruchomości mieszkalnych — do dnia 31 marca roku następującego po roku podatkowym;".
+
+Art. 2. Pierwszą deklarację na podatek od nadwyżki wartości nieruchomości mieszkalnych za rok podatkowy 2027 podatnicy składają w terminach określonych w art. 6 ust. 6 i 9 ustawy zmienianej w art. 1.
+
+Art. 3. Rozdział 2b ustawy zmienianej w art. 1 stosuje się do stanów faktycznych istniejących od dnia 1 stycznia 2027 r.
+
+Art. 4. Ustawa wchodzi w życie z dniem 30 września 2026 r.
