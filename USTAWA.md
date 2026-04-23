@@ -22,14 +22,18 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 4. na art. 5 w ust. 1 na pkt 2:
    1. uchyla się lit. a,
    2. lit. b otrzymuje brzmienie:
-      „b) związanych z prowadzeniem działalności gospodarczej oraz od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części zajętych na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej,";
+      „b) związanych z prowadzeniem działalności gospodarczej, z zastrzeżeniem lit. f oraz art. 5a – 35,53 zł od 1 m² powierzchni użytkowej,";
+   3. dodaje się lit. f w brzmieniu:
+      „f) od budynków mieszkalnych jednorodzinnych i lokali mieszkalnych lub ich części, które w ewidencji gruntów i budynków posiadają funkcję inną niż mieszkalna i są zajęte na prowadzenie działalności gospodarczej – 35,53 zł od 1 m² powierzchni użytkowej.".
 5. po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
 
    „**Art. 5a.**
 
    1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
-      1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
-      2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
+      1. 0,02% wartości dla:
+        a) pierwszego albo drugiego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego nabytego przez podatnika,
+        b) budynków mieszkalnych jednorodzinnych i lokali mieszkalnych stanowiących towary handlowe podatnika, wytworzone przez niego w ramach prowadzonej działalności gospodarczej – przez okres 12 miesięcy, licząc od pierwszego dnia roku następującego po roku, w którym zakończono budowę w rozumieniu przepisów ustawy – Prawo budowlane;
+      2. w przypadku trzeciego albo kolejnego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, z wyłączeniem nieruchomości o których mowa w pkt 1 lit. b w okresie tam wskazanym:
          1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
          2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
    2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik.
