@@ -88,6 +88,21 @@ W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabyw
 
 Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były podatnikami podatku od nieruchomości, którego przedmiotem opodatkowania były więcej niż dwa budynki mieszkalne jednorodzinne lub lokale mieszkalne wskazują, w terminie do 31 stycznia 2027 r., właściwemu organowi podatkowemu budynki mieszkalne jednorodzinne lub lokale mieszkalne, w celu ustalenia nieruchomości podlegających stawce opodatkowania określonej w art. 5a ust. 1 pkt 2 ustawy zmienianej w art. 1.
 
+**Art. 5c.**
+
+   1. Jeżeli dokonanie czynności prawnej, ustanowienie stosunku prawnego albo utworzenie lub wykorzystanie jednostki organizacyjnej miało jako główny lub jeden z głównych celów uniknięcie zastosowania stawki podatku, o której mowa w art. 5a ust. 1 pkt 2, skutki podatkowe ustala się tak, jakby czynność, stosunek prawny albo utworzenie lub wykorzystanie jednostki organizacyjnej nie zostały dokonane.
+
+   2. Przy ustalaniu, czy zachodzi okoliczność, o której mowa w ust. 1, bierze się pod uwagę w szczególności:
+      1. przeniesienie własności budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego na osobę powiązaną z podatnikiem w rozumieniu art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli podatnik zachowuje faktyczne władztwo nad przedmiotem opodatkowania;
+      2. ustanowienie użytkowania, użytkowania wieczystego, służebności, dożywocia lub innego ograniczonego prawa rzeczowego bez ekwiwalentu gospodarczego odpowiadającego wartości rynkowej tego prawa;
+      3. czynności powiernicze, w których faktycznym beneficjentem ekonomicznym pozostaje podatnik, będący właścicielem lub współwłaścicielem więcej niż dwóch budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych;
+      4. przeniesienie własności do jednostki organizacyjnej, w tym fundacji rodzinnej, w której podatnik lub osoba z nim powiązana sprawuje kontrolę w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2025 r. poz. 120);
+      5. rozdrobnienie własności między osoby pozostające we wspólnym gospodarstwie domowym, jeżeli nastąpiło ono w okresie 5 lat poprzedzających rok podatkowy.
+
+   3. Organ podatkowy, stosując przepis ust. 1, wydaje decyzję ustalającą stawkę podatku z uwzględnieniem rzeczywistego beneficjenta ekonomicznego. Ciężar dowodu, że czynność nie została dokonana w celu określonym w ust. 1, spoczywa na podatniku.
+
+   4. W sprawach, o których mowa w ust. 1, przepisy art. 14b–14s ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa o interpretacjach indywidualnych stosuje się odpowiednio. Podatnik, który uzyskał interpretację indywidualną stwierdzającą, że w jego sprawie nie zachodzą okoliczności z ust. 1, korzysta z ochrony na zasadach określonych w art. 14k tej ustawy.
+
 ### Art. 6. [przepisy przejściowe dotyczące deklaracji na 2027 r.]
 
 1. W 2027 r. podatnicy, o których mowa w art. 6 ust. 9 ustawy zmienianej w art. 1, mogą składać deklaracje na podatek od nieruchomości na rok 2027 w terminie do dnia 31 marca 2027 r., jeżeli spełnią warunki określone w ust. 2.
