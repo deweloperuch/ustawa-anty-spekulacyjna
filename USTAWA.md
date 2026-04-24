@@ -82,13 +82,27 @@ W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabyw
 
 – z możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia do wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia.";
 
+### Art. 5. [zmiana ustawy o podatku od czynności cywilnoprawnych]
+
+W ustawie z dnia 9 września 2000 r. O podatku od czynności cywilnoprawnych (Dz. U. z 2025 r. poz. 295) wprowadza się następujące zmiany:
+
+na art. 7 po ust. 1 dodaje się ust. 1a w brzmieniu:
+"1a. W przypadku umowy zbycia trzeciego lub kolejnego lokalu mieszkalnego (w tym prawa odrębnej własności lokalu) lub budynku mieszkalnego jednorodzinnego, należącego do podatnika (z uwzględnieniem zasady agregacji przez beneficjenta rzeczywistego z art. 5a ust. 2 ustawy o podatkach i opłatach lokalnych), stawka podatku wynosi:
+1.	16% podstawy opodatkowania - jeżeli zbycie następuje przed upływem 1 roku od daty jego nabycia przez zbywcę;
+2.	12% podstawy opodatkowania - jeżeli zbycie następuje po upływie 1 roku, ale przed upływem 2 lat od daty jego nabycia;
+3.	8% podstawy opodatkowania - jeżeli zbycie następuje po upływie 2 lat, ale przed upływem 3 lat od daty jego nabycia."
+
+na art. 7 po ust. 1a dodaje się ust. 1b w brzmieniu:
+"1b. Podstawę opodatkowania, o której mowa w ust. 1a, stanowi wartość rynkowa zbywanej nieruchomości lub cena transakcyjna określona w umowie, w zależności od tego, która z tych kwot jest wyższa.";
+
+
 ## *Przepisy przejściowe i końcowe*
 
-### Art. 5. [obowiązek wskazania nieruchomości]
+### Art. 6. [obowiązek wskazania nieruchomości]
 
 Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były podatnikami podatku od nieruchomości, którego przedmiotem opodatkowania były więcej niż dwa budynki mieszkalne jednorodzinne lub lokale mieszkalne wskazują, w terminie do 31 stycznia 2027 r., właściwemu organowi podatkowemu budynki mieszkalne jednorodzinne lub lokale mieszkalne, w celu ustalenia nieruchomości podlegających stawce opodatkowania określonej w art. 5a ust. 1 pkt 2 ustawy zmienianej w art. 1.
 
-### Art. 6. [przepisy przejściowe dotyczące deklaracji na 2027 r.]
+### Art. 7. [przepisy przejściowe dotyczące deklaracji na 2027 r.]
 
 1. W 2027 r. podatnicy, o których mowa w art. 6 ust. 9 ustawy zmienianej w art. 1, mogą składać deklaracje na podatek od nieruchomości na rok 2027 w terminie do dnia 31 marca 2027 r., jeżeli spełnią warunki określone w ust. 2.
 2. W celu skorzystania z uprawnienia, o którym mowa w ust. 1, podatnicy są obowiązani:
@@ -105,11 +119,11 @@ Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były po
    1. niższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2027 za miesiące, za które zostały uiszczone, brakująca kwota podatku pozostała do zapłaty podlega, bez wezwania organu podatkowego, wpłacie na rachunek właściwej gminy w terminie do dnia 31 marca 2027 r., przy czym kwota wpłacona w tym terminie nie stanowi zaległości podatkowej w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863);
    2. wyższe niż raty podatku od nieruchomości wynikające ze złożonej deklaracji na podatek od nieruchomości na rok 2026 za miesiące, za które zostały uiszczone, kwota powstałej różnicy nie stanowi nadpłaty w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, a do jej zaliczenia lub zwrotu przepis art. 76 tej ustawy stosuje się odpowiednio.
 
-### Art. 7. [podstawa wymiaru od 2028 r.]
+### Art. 8. [podstawa wymiaru od 2028 r.]
 
 Podstawa wymiaru podatku od nieruchomości, o której mowa w art. 4 ust. 1 pkt 2a lit. a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, może być zastosowana do wymiaru podatku należnego od roku 2028.
 
-### Art. 8. [ograniczenie wysokości podatku w okresie przejściowym]
+### Art. 9. [ograniczenie wysokości podatku w okresie przejściowym]
 
 W okresie 5 lat od dnia wejścia w życie niniejszej ustawy kwota podatku od nieruchomości należnego od budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, podlegającego stawce, o której mowa w art. 5a ust. 1 pkt 1 ustawy zmienianej w art. 1, nie może być wyższa niż kwota podatku, jaka byłaby należna od tego przedmiotu opodatkowania przy zastosowaniu stawki podatku od nieruchomości od budynków mieszkalnych określonej w art. 5 ust. 1 pkt 2 lit. a ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707, 726 i 1113).
 
