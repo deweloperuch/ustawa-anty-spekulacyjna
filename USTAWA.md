@@ -109,10 +109,6 @@ Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były po
 
 Podstawa wymiaru podatku od nieruchomości, o której mowa w art. 4 ust. 1 pkt 2a lit. a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, może być zastosowana do wymiaru podatku należnego od roku 2028.
 
-### Art. 8. [ograniczenie wysokości podatku w okresie przejściowym]
-
-W okresie 5 lat od dnia wejścia w życie niniejszej ustawy kwota podatku od nieruchomości należnego od budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, podlegającego stawce, o której mowa w art. 5a ust. 1 pkt 1 ustawy zmienianej w art. 1, nie może być wyższa niż kwota podatku, jaka byłaby należna od tego przedmiotu opodatkowania przy zastosowaniu stawki podatku od nieruchomości od budynków mieszkalnych określonej w art. 5 ust. 1 pkt 2 lit. a ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707, 726 i 1113).
-
-### Art. 9. [wejście w życie]
+### Art. 8. [wejście w życie]
 
 Ustawa wchodzi w życie z dniem 1 stycznia 2027 r.
