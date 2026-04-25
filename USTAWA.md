@@ -17,7 +17,7 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
       „2) dla budynków niebędących budynkiem mieszkalnym jednorodzinnym albo lokalem mieszkalnym lub ich części – powierzchnia użytkowa;",
    2. po pkt 2 dodaje się pkt 2a w brzmieniu:
       „2a) dla budynków mieszkalnych jednorodzinnych i lokali mieszkalnych – wartość ustalana jako iloczyn liczby m² ich powierzchni użytkowej oraz:
-      a) średniej ceny transakcyjnej m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych na terenie gminy, w której znajduje się przedmiot opodatkowania, podanej na dzień 30 września roku poprzedzającego rok podatkowy, na który ustalana jest wysokość podatku, w Portalu Danych o Obrocie Mieszkaniami, o którym mowa w rozdziale 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27) albo w przypadku braku dostępnych danych o których mowa w lit. a
+      a) mediany ceny transakcyjnej m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych na terenie gminy, w której znajduje się przedmiot opodatkowania, podanej na dzień 30 września roku poprzedzającego rok podatkowy, na który ustalana jest wysokość podatku, w Portalu Danych o Obrocie Mieszkaniami, o którym mowa w rozdziale 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27) albo w przypadku braku dostępnych danych o których mowa w lit. a
       b) wskaźnika przeliczeniowego kosztu odtworzenia 1 m² powierzchni użytkowej budynków mieszkalnych określonego przez wojewodę na podstawie art. 2 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), obowiązującego na dzień 31 grudnia roku poprzedzającego rok podatkowy, na który ustalana jest wysokość podatku, na terenie gminy, w której jest położony przedmiot opodatkowania.";
 4. na art. 5 w ust. 1 na pkt 2:
    1. uchyla się lit. a,
@@ -78,7 +78,7 @@ W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabyw
 
 1. o średnich cenach transakcyjnych lokali mieszkalnych albo domów jednorodzinnych lub średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych, lub medianach tych cen transakcyjnych,
 2. o liczbie transakcji, z których pochodzą ceny transakcyjne uwzględnione przy generowaniu informacji, o których mowa w pkt 1,
-3. średnich cenach transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych dla obszaru danej gminy, na dzień 30 września każdego roku
+3. medianach cen transakcyjnych m² powierzchni użytkowej lokali mieszkalnych albo domów jednorodzinnych dla obszaru danej gminy, na dzień 30 września każdego roku
 
 – z możliwością dokonania przez użytkownika Portalu DOM dyspozycji ich zawężenia do wybranej lokalizacji, charakterystyki nieruchomości lub transakcji oraz okresu nie dłuższego niż dwa lata poprzedzające dokonanie dyspozycji takiego zawężenia.";
 
